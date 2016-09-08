@@ -5,7 +5,7 @@ I'll be using this Code Bucket to host sample code some of which is written to a
 
 ## How to implement Windows Authentication in an AngularJS application with a stand-alone Web API
 
-[Blog](https://spikesapps.wordpress.com) TODO: set correct url of this post when published.
+[Blog](https://spikesapps.wordpress.com/2016/09/08/how-to-implement-windows-authentication-in-an-angularjs-application-with-a-stand-alone-web-api/)
 
 [Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.WinAuth)
 
