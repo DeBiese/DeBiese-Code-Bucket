@@ -5,9 +5,9 @@ I'll be using this Code Bucket to host sample code some of which is written to a
 
 ## How to implement Windows Authentication in an AngularJS application with a stand-alone Web API
 
-[Blog](https://spikesapps.wordpress.com)
+[Blog](https://spikesapps.wordpress.com) TODO: set correct url of this post when published.
 
-[Sample Code](http://github.com)
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.WinAuth)
 
 ## Angular-XrmServiceToolkit
 
@@ -17,6 +17,6 @@ I'll be using this Code Bucket to host sample code some of which is written to a
 
 ## Angular-SignalR-Hub
 
-[Sample Code](http://github.com)
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/Spikes.RubenB.SignalR)
 
  
