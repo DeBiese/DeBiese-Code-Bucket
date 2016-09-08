@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeBiese.WinAuth.API", "DeBiese.WinAuth.API\DeBiese.WinAuth.API.csproj", "{207CF032-65BA-4FE4-9012-8BEEAD51F120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeBiese.WinAuth.NG", "DeBiese.WinAuth.NG\DeBiese.WinAuth.NG.csproj", "{8C84D372-4D1F-4FC5-A5B0-D230FB6500EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207CF032-65BA-4FE4-9012-8BEEAD51F120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207CF032-65BA-4FE4-9012-8BEEAD51F120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207CF032-65BA-4FE4-9012-8BEEAD51F120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207CF032-65BA-4FE4-9012-8BEEAD51F120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C84D372-4D1F-4FC5-A5B0-D230FB6500EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C84D372-4D1F-4FC5-A5B0-D230FB6500EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C84D372-4D1F-4FC5-A5B0-D230FB6500EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C84D372-4D1F-4FC5-A5B0-D230FB6500EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

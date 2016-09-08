@@ -1,0 +1,8 @@
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\bin\DeBiese.WinAuth.NG.dll.config
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\bin\DeBiese.WinAuth.NG.dll
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\bin\DeBiese.WinAuth.NG.pdb
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\bin\Microsoft.IdentityModel.dll
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\obj\Debug\DeBiese.WinAuth.NG.csprojResolveAssemblyReference.cache
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\obj\Debug\DeBiese.WinAuth.NG.dll
+C:\Users\ruben.biesemans\Documents\Visual Studio 2015\Projects\DeBiese.WinAuth\DeBiese.WinAuth.NG\obj\Debug\DeBiese.WinAuth.NG.pdb

@@ -1,0 +1,4 @@
+﻿This project is the basic chat app from this url:
+http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr-and-mvc
+
+Afterwards it has been extended to log the chat messages using Log4Net to another site using SignalR.

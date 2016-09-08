@@ -1,0 +1,15 @@
+﻿<form name="chatForm">
+    <h2>Chat</h2>
+    <div class="container">
+        <input type="text" id="message" ng-model="message" />
+        <input type="submit" id="sendmessage" value="Send" ng-click="sendChat();" />
+        <ul id="discussion">
+            <li ng-repeat="c in chats.all"><strong>{{c.UserName}}: </strong>{{c.ChatMessage}}</li>
+        </ul>
+    </div>
+    <script type="text/javascript">
+        // Set initial focus to message input box.
+        $('#message').focus();
+        
+    </script>
+</form>

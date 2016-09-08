@@ -1,0 +1,86 @@
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.dll.config
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.pdb
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Antlr3.Runtime.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\log4net.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Cors.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Owin.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Cors.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Helpers.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Mvc.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Optimization.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Razor.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\WebGrease.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\log4net.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Cors.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Helpers.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Mvc.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Optimization.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Razor.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Antlr3.Runtime.pdb
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.dll
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.pdb
+C:\Users\ruben.biesemans.HQ\documents\visual studio 2013\Projects\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\obj\Debug\Spikes.RubenB.SignalRChat.pdb
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.dll.config
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Spikes.RubenB.SignalRChat.pdb
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Antlr3.Runtime.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\log4net.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Cors.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Owin.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Cors.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Helpers.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Mvc.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Optimization.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Razor.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\WebGrease.dll
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\log4net.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Cors.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Helpers.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Mvc.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Optimization.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.Razor.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Antlr3.Runtime.pdb
+C:\Users\ruben.biesemans\Downloads\Spikes.RubenB.SignalR\Spikes.RubenB.SignalRChat\bin\Newtonsoft.Json.xml

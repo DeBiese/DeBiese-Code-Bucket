@@ -1,0 +1,172 @@
+2015-02-16 15:29:28,381 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:29:28,381 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:29:45,065 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:29:45,065 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:30:47,259 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:30:47,259 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:30:56,279 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:30:56,279 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:31:03,571 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:31:03,571 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:39:57,572 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-16 15:39:57,740 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:39:57,740 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:40:13,854 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:40:13,854 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:40:19,580 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:40:19,580 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:40:26,266 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:40:26,266 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:40:45,968 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:40:45,968 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:42:57,976 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-16 15:42:58,153 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:42:58,153 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:43:07,500 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:43:07,500 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:43:16,288 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:43:16,288 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:43:39,542 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:43:39,542 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:48:02,872 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-16 15:48:03,043 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:48:03,043 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:48:32,507 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:48:32,507 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:48:43,450 [25] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:48:43,450 [25] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:48:47,781 [25] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:48:47,781 [25] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-16 15:49:05,257 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:49:05,257 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-16 15:49:12,736 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : vdsfsqdfdsfdsqfqs
+2015-02-16 15:49:12,736 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : vdsfsqdfdsfdsqfqs
+2015-02-16 15:49:19,410 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:49:19,410 [6] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-16 15:49:25,263 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsfsdqfsq
+2015-02-16 15:49:25,263 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsfsdqfsq
+2015-02-16 15:49:35,623 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : fdsqf
+2015-02-16 15:49:35,623 [6] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : fdsqf
+2015-02-17 14:14:06,262 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 14:14:06,573 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:14:06,573 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:14:45,424 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 14:14:46,138 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 14:14:46,138 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 14:15:03,014 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:15:03,014 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:15:12,733 [15] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-17 14:15:12,733 [15] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-17 14:15:25,094 [18] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-02-17 14:15:25,094 [18] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-02-17 14:15:28,017 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-02-17 14:15:28,017 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-02-17 14:15:33,003 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:15:33,003 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:17:13,143 [18] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-17 14:17:13,143 [18] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-02-17 14:17:20,083 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : fdsqfdqs
+2015-02-17 14:17:20,083 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : fdsqfdqs
+2015-02-17 14:19:18,826 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:19:18,826 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:19:59,481 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 14:19:59,481 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:08:58,170 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 15:08:58,342 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:08:58,342 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:09:11,092 [11] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : Rubenb
+2015-02-17 15:09:11,092 [11] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : Rubenb
+2015-02-17 15:09:20,111 [17] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:09:20,111 [17] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:11:12,135 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 15:11:12,385 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:11:12,385 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:11:16,529 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:11:16,529 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:11:28,342 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : Test
+2015-02-17 15:11:28,342 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : Test
+2015-02-17 15:12:01,527 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:12:01,527 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:12:12,122 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : ik zal ff mee chatten dan ...
+2015-02-17 15:12:12,122 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : ik zal ff mee chatten dan ...
+2015-02-17 15:12:17,231 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : nice!
+2015-02-17 15:12:17,231 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : nice!
+2015-02-17 15:14:28,190 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 15:14:28,425 [11] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:14:28,425 [11] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:14:37,186 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : I'm back!
+2015-02-17 15:14:37,186 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : I'm back!
+2015-02-17 15:14:45,139 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : das leuk!
+2015-02-17 15:14:45,139 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : das leuk!
+2015-02-17 15:14:48,576 [12] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:14:48,576 [12] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:15:00,281 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : stomme logging wil ma nie werken eh...
+2015-02-17 15:15:00,281 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : stomme logging wil ma nie werken eh...
+2015-02-17 15:29:33,557 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-17 15:29:33,918 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:29:33,918 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:30:47,470 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:30:47,470 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:30:56,607 [16] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : checking in again
+2015-02-17 15:30:56,607 [16] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : checking in again
+2015-02-17 15:31:00,828 [16] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:31:00,828 [16] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-17 15:31:10,835 [16] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : are you still there?
+2015-02-17 15:31:10,835 [16] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : are you still there?
+2015-02-17 15:31:13,708 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:31:13,708 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-17 15:31:20,507 [18] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : i'm here
+2015-02-17 15:31:20,507 [18] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : i'm here
+2015-02-18 10:13:18,824 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-18 10:13:18,995 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:13:18,995 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:13:37,185 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:13:37,185 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:13:45,876 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:13:45,876 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:13:55,616 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB02 : is er iemand?
+2015-02-18 10:13:55,616 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB02 : is er iemand?
+2015-02-18 10:14:01,988 [13] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : jaja, ik ben er
+2015-02-18 10:14:01,988 [13] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : jaja, ik ben er
+2015-02-18 10:14:06,731 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : the real rubenb
+2015-02-18 10:14:06,731 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : the real rubenb
+2015-02-18 10:14:09,437 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : :p
+2015-02-18 10:14:09,437 [17] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : :p
+2015-02-18 10:14:12,830 [17] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:14:12,830 [17] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:15:31,828 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:15:31,828 [14] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:16:03,819 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : hehe
+2015-02-18 10:16:03,819 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : hehe
+2015-02-18 10:18:13,617 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-18 10:18:18,812 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:18:18,812 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:18:32,197 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB_TheOriginal : here I am
+2015-02-18 10:18:32,197 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB_TheOriginal : here I am
+2015-02-18 10:18:42,480 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:18:42,480 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:21:12,465 [1] INFO   Logging this so that the log4net framework loads the SignalrAppender class before the SignalrAppendHub runs which expects an instance of the SignalrAppend class.
+2015-02-18 10:21:12,822 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:21:26,877 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB_TheOriginal : yeah yeah
+2015-02-18 10:21:32,777 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Chat
+2015-02-18 10:21:40,691 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : hello there
+2015-02-18 10:21:43,131 [11] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Log
+2015-02-18 10:21:58,049 [11] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB_TheOriginal : go away you imposter!
+2015-03-01 15:55:40,555 [1] INFO   SignalRChat Initializing.
+2015-03-01 15:55:40,758 [5] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-03-01 15:55:47,865 [5] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : test
+2015-03-01 15:55:48,543 [15] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsq
+2015-03-01 15:55:48,995 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsq
+2015-03-01 15:55:50,231 [5] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsq
+2015-11-12 07:59:33,404 [1] INFO   SignalRChat Initializing.
+2015-11-12 07:59:33,595 [9] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-11-12 07:59:40,039 [11] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : Test
+2015-11-12 08:00:04,144 [10] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-11-12 08:00:09,932 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-11-12 08:00:13,681 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : ok ok
+2015-11-12 08:00:56,160 [1] INFO   SignalRChat Initializing.
+2015-11-12 08:00:56,421 [11] INFO  Spikes.RubenB.SignalRChat.Controllers.HomeController Index
+2015-11-12 08:01:08,951 [12] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from DeBiese : test
+2015-11-12 08:01:13,436 [10] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : check
+2015-11-12 08:01:24,100 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : amai amai
+2015-11-12 08:02:44,937 [9] INFO  Spikes.RubenB.SignalRChat.Hubs.ChatHub Chat from RubenB : fdsfqsdfqsd
