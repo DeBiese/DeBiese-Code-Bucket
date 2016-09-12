@@ -8,6 +8,7 @@ using DeBiese.WinAuth.API.Models;
 
 namespace DeBiese.WinAuth.API.Controllers
 {
+    [Authorize]
     [RoutePrefix("data")]
     public class DataController : ApiController
     {
