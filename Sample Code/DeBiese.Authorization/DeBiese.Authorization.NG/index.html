@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>DeBiese.Authorization.NG App</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+
+    <!-- Custom css -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="Content/loading-bar.min.css" rel="stylesheet" />
+    <link href="Content/ui-bootstrap-csp.css" rel="stylesheet" />
+    <link href="Content/ngToast.min.css" rel="stylesheet" />
+    <link href="Content/ngToast-animations.min.css" rel="stylesheet" />
+    <link href="Content/custom.css" rel="stylesheet" />
+
+    <!-- Libs -->
+    <script src="Scripts/jquery-2.2.4.min.js"></script>
+
+    <!-- IE required polyfills -->
+    <script src="Scripts/es6-shim.min.js"></script>
+    
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-ui-router.min.js"></script>
+    <script src="Scripts/angular-animate.min.js"></script>
+    <script src="Scripts/angular-sanitize.min.js"></script>
+    <script src="Scripts/angular-messages.min.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap.min.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap-tpls.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/smart-table.min.js"></script>
+    <script src="Scripts/q.js"></script>
+    <script src="Scripts/loading-bar.min.js"></script>
+    <script src="Scripts/bootbox.min.js"></script>
+    <script src="Scripts/json3.min.js"></script>
+    <script src="Scripts/ngToast.min.js"></script>
+    
+</head>
+
+<body ng-app="DeBiese.Authorization.NGApp">
+    <!-- toast is necessary for showing toast messages -->
+    <toast></toast>
+    <navigation></navigation>
+
+    <div id="main">
+        <div class="container-fluid">
+            <!-- THIS IS WHERE WE WILL INJECT OUR CONTENT ============================== -->
+            <div ui-view></div>
+        </div>
+    </div>
+    
+    <!-- App Scripts -->
+    <!-- PUT YOUR APP AND COMMON JAVASCRIPT INCLUDES HERE -->
+    <!-- Models -->
+    <!-- PUT YOUR MODEL JAVASCRIPT INCLUDES HERE -->
+    <script src="app/models/AppUser.js"></script>
+    <script src="app/models/NavigationItem.js"></script>
+    <script src="app/models/PostData.js"></script>
+    <script src="app/models/RejectMessage.js"></script>
+    <script src="app/models/StateSecurity.js"></script>
+    <!-- /Models -->
+    <!-- APP -->    
+    <script src="app/common/configuration.js"></script>
+    <script src="app/common/security/securityModule.js"></script>
+    <script src="app/common/security/authenticationService.js"></script>
+    <script src="app/common/security/authorizationService.js"></script> 
+    <script src="app/app.js"></script>
+    <!-- Filters -->
+    <!-- PUT YOUR FILTER JAVASCRIPT INCLUDES HERE -->
+    <!-- /Filters-->
+    <!-- Directives -->
+    <!-- PUT YOUR DIRECTIVE JAVASCRIPT INCLUDES HERE -->
+    <script src="app/directives/navigation/navigationDirective.js"></script>
+    <!-- /Directives -->
+    <!-- Factories -->
+    <!-- PUT YOUR FACTORY JAVASCRIPT INCLUDES HERE -->
+    <!-- /Factories -->
+    <!-- Services -->
+    <!-- PUT YOUR SERVICE JAVASCRIPT INCLUDES HERE -->
+    <script src="app/services/logService.js"></script>
+    <script src="app/common/toastService.js"></script>
+    <!-- /Services -->
+    <!-- Modals -->
+    <!-- PUT YOUR MODAL JAVASCRIPT INCLUDES HERE -->
+    <!-- /Modals -->
+    <!-- Controllers -->
+    <!-- PUT YOUR CONTROLLER JAVASCRIPT INCLUDES HERE -->
+    <script src="app/components/home/homeController.js"></script>
+    <script src="app/components/help/helpController.js"></script>
+    <script src="app/directives/navigation/navigationController.js"></script>
+    <script src="app/components/authorization/notAuthorizedController.js"></script>
+    <!-- /Controllers -->
+    <!-- /App Scripts -->
+</body>
+</html>
