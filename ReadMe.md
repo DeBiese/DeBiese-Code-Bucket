@@ -2,8 +2,15 @@ DeBiese Code Bucket
 ===================
 
 I'll be using this Code Bucket to host sample code some of which is written to accompany blog posts.
+Sample code/blogs that appear on this page are added at the top. So the recent code on top.
 
-## How to implement Windows Authentication in an AngularJS application with a stand-alone Web API
+## How to - Authorization in AngularJS application with Windows Authentication
+
+[Blog](https://spikesapps.wordpress.com/2016/09/20/how-to-authorization-in-angularjs-application-with-windows-authentication/)
+
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.Authorization)
+
+## How to - Implement Windows Authentication in an AngularJS application with a stand-alone Web API
 
 [Blog](https://spikesapps.wordpress.com/2016/09/08/how-to-implement-windows-authentication-in-an-angularjs-application-with-a-stand-alone-web-api/)
 
