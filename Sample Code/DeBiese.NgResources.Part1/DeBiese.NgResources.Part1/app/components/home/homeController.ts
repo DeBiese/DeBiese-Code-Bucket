@@ -1,8 +1,8 @@
 ﻿/// <reference path="../../_app.ts" />
 'use strict';
 module DeBiese.NgResources.Part1.Controllers {
-    import ErrorMessages = DeBiese.NgResources.Part1.Resources.Errors.Messages;
-    import HomeMessages = DeBiese.NgResources.Part1.Resources.Home.Messages;
+    import ErrorMessages = DeBiese.NgResources.Part1.Resources.Errors;
+    import HomeMessages = DeBiese.NgResources.Part1.Resources.Home;
     import C = DeBiese.NgResources.Part1.Common;
     import M = DeBiese.NgResources.Part1.Models;
     import S = DeBiese.NgResources.Part1.Services;
@@ -18,7 +18,7 @@ module DeBiese.NgResources.Part1.Controllers {
         private logSvc: S.ILogService;
         private dummySvc: S.IDummyService;
 
-        $resourceHelper: C.Resources.IResourceHelper;
+        homeResources: HomeMessages = HomeMessages;
 
         pageSize: number = C.Configuration.DefaultGridPagerConfig.pageSize;
         pagesToShow: number = C.Configuration.DefaultGridPagerConfig.pagesToShow;
@@ -29,8 +29,6 @@ module DeBiese.NgResources.Part1.Controllers {
             private toastSvc: S.IToastService,
             logService: S.ILogService,
             dummyService: S.DummyService) {
-
-            this.$resourceHelper = new C.Resources.ResourceHelper('Home');
 
             this.logSvc = logService;
             this.dummySvc = dummyService;

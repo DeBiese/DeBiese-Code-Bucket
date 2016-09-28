@@ -11,19 +11,15 @@ var DeBiese;
             Part1.app = angular.module("DeBiese.NgResources.Part1App", ['ui.router', 'smart-table', 'ui.bootstrap', 'angular-loading-bar', 'ngMessages', 'ngToast']);
             var Config = (function () {
                 function Config($stateProvider, $urlRouterProvider) {
-                    $urlRouterProvider.otherwise('/home/');
+                    $urlRouterProvider.otherwise('/home');
                     $stateProvider
                         .state('home', {
-                        url: '/home/:applicationId',
-                        templateUrl: '/app/components/home/homeView.html',
-                        controller: DeBiese.NgResources.Part1.Controllers.HomeController.id,
-                        controllerAs: 'vm'
+                        url: '/home',
+                        template: '<home-component></home-component>'
                     })
                         .state('help', {
                         url: '/help',
-                        templateUrl: '/app/components/help/helpView.html',
-                        controller: DeBiese.NgResources.Part1.Controllers.HelpController.id,
-                        controllerAs: 'vm'
+                        template: '<help-component></help-component>'
                     });
                 }
                 Config.$inject = ["$stateProvider", "$urlRouterProvider"];
@@ -46,16 +42,16 @@ var DeBiese;
             var NavigationConfiguration = (function () {
                 function NavigationConfiguration() {
                     this.brandState = 'home';
-                    this.brandTitle = RES.Navigation.Messages.title;
+                    this.brandTitle = RES.Navigation.title;
                     this.navigationItems = [
                         new M.NavigationItem({
                             State: 'home',
-                            Title: RES.Navigation.Messages.navItemHome,
+                            Title: RES.Navigation.navItemHome,
                             Icon: 'glyphicon-home'
                         }),
                         new M.NavigationItem({
                             State: 'help',
-                            Title: RES.Navigation.Messages.navItemHelp,
+                            Title: RES.Navigation.navItemHelp,
                             Icon: 'glyphicon-question-sign'
                         })
                     ];

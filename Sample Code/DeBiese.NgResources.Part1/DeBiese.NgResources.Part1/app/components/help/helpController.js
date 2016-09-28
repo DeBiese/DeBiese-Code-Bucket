@@ -8,10 +8,10 @@ var DeBiese;
         (function (Part1) {
             var Controllers;
             (function (Controllers) {
-                var C = DeBiese.NgResources.Part1.Common;
+                var HelpMessages = DeBiese.NgResources.Part1.Resources.Help;
                 var HelpController = (function () {
                     function HelpController() {
-                        this.$resourceHelper = new C.Resources.ResourceHelper('Help');
+                        this.helpResources = HelpMessages;
                         this.activate();
                     }
                     HelpController.prototype.activate = function () {

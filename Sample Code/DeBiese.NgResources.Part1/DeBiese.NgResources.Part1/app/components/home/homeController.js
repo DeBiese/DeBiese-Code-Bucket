@@ -8,7 +8,7 @@ var DeBiese;
         (function (Part1) {
             var Controllers;
             (function (Controllers) {
-                var HomeMessages = DeBiese.NgResources.Part1.Resources.Home.Messages;
+                var HomeMessages = DeBiese.NgResources.Part1.Resources.Home;
                 var C = DeBiese.NgResources.Part1.Common;
                 var S = DeBiese.NgResources.Part1.Services;
                 var HomeController = (function () {
@@ -16,9 +16,9 @@ var DeBiese;
                         this.$state = $state;
                         this.$timeout = $timeout;
                         this.toastSvc = toastSvc;
+                        this.homeResources = HomeMessages;
                         this.pageSize = C.Configuration.DefaultGridPagerConfig.pageSize;
                         this.pagesToShow = C.Configuration.DefaultGridPagerConfig.pagesToShow;
-                        this.$resourceHelper = new C.Resources.ResourceHelper('Home');
                         this.logSvc = logService;
                         this.dummySvc = dummyService;
                         this.activate();

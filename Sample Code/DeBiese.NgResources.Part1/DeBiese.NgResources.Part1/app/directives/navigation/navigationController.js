@@ -8,11 +8,11 @@ var DeBiese;
         (function (Part1) {
             var Controllers;
             (function (Controllers) {
-                var C = DeBiese.NgResources.Part1.Common;
+                var NavMessages = DeBiese.NgResources.Part1.Resources.Navigation;
                 var NavigationController = (function () {
                     function NavigationController(navigationConfiguration) {
+                        this.navResources = NavMessages;
                         this.navConfig = navigationConfiguration;
-                        this.$resourceHelper = new C.Resources.ResourceHelper('Navigation');
                         this.activate();
                     }
                     NavigationController.prototype.activate = function () {

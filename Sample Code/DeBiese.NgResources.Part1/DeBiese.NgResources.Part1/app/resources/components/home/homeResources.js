@@ -7,17 +7,14 @@ var DeBiese;
         (function (Part1) {
             var Resources;
             (function (Resources) {
-                var Home;
-                (function (Home) {
-                    var Messages = (function () {
-                        function Messages() {
-                        }
-                        Messages.title = 'Home Title';
-                        Messages.helloWorld = 'Hello World!';
-                        return Messages;
-                    }());
-                    Home.Messages = Messages;
-                })(Home = Resources.Home || (Resources.Home = {}));
+                var Home = (function () {
+                    function Home() {
+                    }
+                    Home.title = 'Home Title';
+                    Home.helloWorld = 'Hello World!';
+                    return Home;
+                }());
+                Resources.Home = Home;
             })(Resources = Part1.Resources || (Part1.Resources = {}));
         })(Part1 = NgResources.Part1 || (NgResources.Part1 = {}));
     })(NgResources = DeBiese.NgResources || (DeBiese.NgResources = {}));

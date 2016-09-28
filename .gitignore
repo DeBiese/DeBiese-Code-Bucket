@@ -48,6 +48,8 @@ Temporary Items
 
 # Visual Studio
 # Build results
+**/.vs/*
+/.vs/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -83,6 +85,8 @@ bld/
 *.pidb
 *.svclog
 *.scc
+*.suo
+*.csproj.user
 
 # NuGet Packages
 *.nupkg

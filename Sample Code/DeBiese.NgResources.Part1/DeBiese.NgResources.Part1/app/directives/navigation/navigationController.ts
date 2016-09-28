@@ -2,6 +2,7 @@
 'use strict';
 
 module DeBiese.NgResources.Part1.Controllers {
+    import NavMessages = DeBiese.NgResources.Part1.Resources.Navigation;
     import C = DeBiese.NgResources.Part1.Common;
 
     export class NavigationController {
@@ -10,11 +11,10 @@ module DeBiese.NgResources.Part1.Controllers {
 
         navConfig: DeBiese.NgResources.Part1.NavigationConfiguration;
 
-        $resourceHelper: C.Resources.IResourceHelper;
+        navResources: NavMessages = NavMessages;
 
         constructor(navigationConfiguration: DeBiese.NgResources.Part1.NavigationConfiguration) {
             this.navConfig = navigationConfiguration;
-            this.$resourceHelper = new C.Resources.ResourceHelper('Navigation');
             this.activate();
         }
 

@@ -10,22 +10,18 @@ module DeBiese.NgResources.Part1 {
         static $inject: string[] = ["$stateProvider", "$urlRouterProvider"];
         constructor($stateProvider: ng.ui.IStateProvider, $urlRouterProvider: ng.ui.IUrlRouterProvider) {
 
-            $urlRouterProvider.otherwise('/home/');
+            $urlRouterProvider.otherwise('/home');
 
             $stateProvider
 
                 .state('home', {
-                    url: '/home/:applicationId',
-                    templateUrl: '/app/components/home/homeView.html',
-                    controller: DeBiese.NgResources.Part1.Controllers.HomeController.id,
-                    controllerAs: 'vm'
+                    url: '/home',
+                    template: '<home-component></home-component>'
                 })
 
                 .state('help', {
                     url: '/help',
-                    templateUrl: '/app/components/help/helpView.html',
-                    controller: DeBiese.NgResources.Part1.Controllers.HelpController.id,
-                    controllerAs: 'vm'
+                    template: '<help-component></help-component>'
                 })
 
                 ;
@@ -56,16 +52,16 @@ module DeBiese.NgResources.Part1 {
 
         constructor() {
             this.brandState = 'home';
-            this.brandTitle = RES.Navigation.Messages.title;
+            this.brandTitle = RES.Navigation.title;
             this.navigationItems = [
                 new M.NavigationItem({
                     State: 'home',
-                    Title: RES.Navigation.Messages.navItemHome,
+                    Title: RES.Navigation.navItemHome,
                     Icon: 'glyphicon-home'                   
                 }),
                 new M.NavigationItem({
                     State: 'help',
-                    Title: RES.Navigation.Messages.navItemHelp,
+                    Title: RES.Navigation.navItemHelp,
                     Icon: 'glyphicon-question-sign'
                 })
             ];

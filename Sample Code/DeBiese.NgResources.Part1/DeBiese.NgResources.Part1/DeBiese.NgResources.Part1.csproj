@@ -27,7 +27,7 @@
     <SccProvider>SAK</SccProvider>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>2.0</TypeScriptToolsVersion>
     <TargetOfficeVersion>
     </TargetOfficeVersion>
   </PropertyGroup>
@@ -159,9 +159,10 @@
   <ItemGroup>
     <TypeScriptCompile Include="app\app.ts" />
     <TypeScriptCompile Include="app\common\configuration.ts" />
-    <TypeScriptCompile Include="app\common\resourceHelper.ts" />
     <TypeScriptCompile Include="app\common\toastService.ts" />
+    <TypeScriptCompile Include="app\components\help\helpComponent.ts" />
     <TypeScriptCompile Include="app\components\help\helpController.ts" />
+    <TypeScriptCompile Include="app\components\home\homeComponent.ts" />
     <TypeScriptCompile Include="app\components\home\homeController.ts" />
     <TypeScriptCompile Include="app\directives\navigation\navigationController.ts" />
     <TypeScriptCompile Include="app\directives\navigation\navigationDirective.ts" />
@@ -215,7 +216,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>15379</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:15379/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
