@@ -92,3 +92,7 @@ bld/
 *.nupkg
 # The packages folder can be ignored because of Package Restore
 **/packages/*
+
+# Typescript
+app/**/*.js
+app/**/*.map
