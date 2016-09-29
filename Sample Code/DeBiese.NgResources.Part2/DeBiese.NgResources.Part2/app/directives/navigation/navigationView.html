@@ -7,11 +7,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" ui-sref="{{::vm.navConfig.brandState}}">{{::vm.navConfig.brandTitle}}</a>
+            <a class="navbar-brand" ui-sref="{{::vm.navConfig.brandState}}">{{vm.resourceSvc.getLocalResource(vm.navConfig.brandTitleResourceKey)}}</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-menu1">
             <ul class="nav navbar-nav" ng-repeat="navItem in vm.navConfig.navigationItems">
-                <li><a ui-sref="{{::navItem.State}}"><i ng-if="navItem.Icon != null && navItem.Icon != ''" class="{{navItem.IconBase}} {{navItem.Icon}}"></i>{{navItem.Title}}</a> </li>
+                <li><a ui-sref="{{::navItem.State}}"><i ng-if="navItem.Icon != null && navItem.Icon != ''" class="{{navItem.IconBase}} {{navItem.Icon}}"></i>{{vm.resourceSvc.getLocalResource(navItem.ResourceKey)}}</a> </li>
             </ul>
             <div class="pull-right hidden-xs company-logo-small"></div>
         </div>

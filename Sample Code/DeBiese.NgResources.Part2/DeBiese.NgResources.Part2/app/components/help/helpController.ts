@@ -1,16 +1,13 @@
 ﻿/// <reference path="../../_app.ts" />
 'use strict';
 module DeBiese.NgResources.Part2.Controllers {
-    import HelpMessages = DeBiese.NgResources.Part2.Resources.Help;
     import C = DeBiese.NgResources.Part2.Common;
 
     export class HelpController {
-        static $inject: string[] = [];
+        static $inject: Array<string> = [DeBiese.Common.Resources.ResourceProvider.id];
         static id: string = 'helpController';
-
-        helpResources: HelpMessages = HelpMessages;
-
-        constructor() {
+        
+        constructor(private resourceSvc: DeBiese.Common.Resources.IResourceService) {
             this.activate();
         }
 

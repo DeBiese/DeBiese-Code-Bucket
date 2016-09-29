@@ -155,6 +155,9 @@
   <ItemGroup>
     <TypeScriptCompile Include="app\app.ts" />
     <TypeScriptCompile Include="app\common\configuration.ts" />
+    <TypeScriptCompile Include="app\common\dictionary.ts" />
+    <TypeScriptCompile Include="app\common\keyvaluepair.ts" />
+    <TypeScriptCompile Include="app\common\resources\resourceModule.ts" />
     <TypeScriptCompile Include="app\common\toastService.ts" />
     <TypeScriptCompile Include="app\components\help\helpComponent.ts" />
     <TypeScriptCompile Include="app\components\help\helpController.ts" />

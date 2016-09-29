@@ -2,14 +2,14 @@
 module DeBiese.NgResources.Part2.Models {
     export interface INavigationItem {
         State: string;
-        Title: string;
+        ResourceKey: string;
         IconBase?: string;
         Icon?: string;
     }
 
     export class NavigationItem implements INavigationItem {
         State: string;
-        Title: string;
+        ResourceKey: string;
         IconBase: string;
         Icon: string;
 
@@ -17,7 +17,7 @@ module DeBiese.NgResources.Part2.Models {
             this.IconBase = 'glyphicon';
             if (navItem != null) {
                 this.State = navItem.State;
-                this.Title = navItem.Title;
+                this.ResourceKey = navItem.ResourceKey;
                 if (navItem.IconBase != null) this.IconBase = navItem.IconBase;
                 if (navItem.Icon != null) this.Icon = navItem.Icon;
             }
