@@ -4,6 +4,14 @@ DeBiese Code Bucket
 I'll be using this Code Bucket to host sample code some of which is written to accompany blog posts.
 Sample code/blogs that appear on this page are added at the top. So the recent code on top.
 
+All code found in this repository is provided "as is". 
+
+## How to - Build your own Angular translation service - Part 1
+
+[Blog](https://spikesapps.wordpress.com/2016/09/30/how-to-build-your-own-angular-translation-service-part-1/)
+
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.NgResources.Part1)
+
 ## How to - Authorization in AngularJS application with Windows Authentication
 
 [Blog](https://spikesapps.wordpress.com/2016/09/20/how-to-authorization-in-angularjs-application-with-windows-authentication/)
