@@ -40,7 +40,7 @@ module DeBiese.Common.Resources {
         }
 
         protected setLanguageDictionary(): void {
-            throw new Error('setLanguageDictionary not implemented in child class!');
+            throw new Error('setLanguageDictionary not implemented!');
         };
 
         getLanguages(): Dictionary<string, Dictionary<string, string>> {
@@ -111,16 +111,10 @@ module DeBiese.Common.Resources {
     //**********************************************************************************************
     //**********************************************************************************************
     class ResourceService implements IResourceService {
-        private $language: string = '';
-
         private $resourceDictionary: Dictionary<string, Dictionary<string, string>> = null;
-        private $resource: ResourceBase;
         private $dictionary: Dictionary<string, string> = null;
 
         constructor() {
-            //resource: ResourceBase, preferredLanguage ?: string
-            //this.$resource = resource;
-            //this.setLanguage(preferredLanguage != null ? preferredLanguage : 'en');
             this.$resourceDictionary = new Dictionary<string, Dictionary<string, string>>();
         }
 
@@ -137,7 +131,6 @@ module DeBiese.Common.Resources {
             }
 
             resourceConfig.getResources().forEach(rb => {
-                //self.$resourceDictionary.add(rb.getResourceName(), rb);
                 if (rb.getLanguages() != null && rb.getLanguages().count() > 0) {
                     let languageDictionary = rb.getLanguages();
                     languageDictionary.keys().forEach(k => {
@@ -174,7 +167,6 @@ module DeBiese.Common.Resources {
 
         setLanguage(language: string): void {
             const self = this;
-            self.$language = language;
             if (self.$resourceDictionary.containsKey(language))
                 self.$dictionary = self.$resourceDictionary.getValue(language);
             else

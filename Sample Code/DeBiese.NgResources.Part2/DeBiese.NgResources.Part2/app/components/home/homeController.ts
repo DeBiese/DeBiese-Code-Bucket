@@ -10,7 +10,14 @@ module DeBiese.NgResources.Part2.Controllers {
     }
 
     export class HomeController implements IHomeController {
-        static $inject: string[] = ['$state', '$timeout', S.ToastService.id, S.LogService.id, S.DummyService.id, DeBiese.Common.Resources.ResourceProvider.id];
+        static $inject: string[] = [
+            '$state',
+            '$timeout',
+            S.ToastService.id,
+            S.LogService.id,
+            S.DummyService.id,
+            DeBiese.Common.Resources.ResourceProvider.id
+        ];
         static id: string = 'homeController';
         
 

@@ -3,6 +3,10 @@ module DeBiese.NgResources.Part2.Resources {
     import C = DeBiese.Common;
 
     export class HelpResources extends C.Resources.ResourceBase {
+        constructor() {
+            super('Help');
+        }
+
         protected setLanguageDictionary(): void {
             const self = this;
             let Translations_en: Array<C.KeyValuePair<string, string>> = [
@@ -19,10 +23,6 @@ module DeBiese.NgResources.Part2.Resources {
                 { key: 'en', value: new C.Dictionary(Translations_en) },
                 { key: 'nl', value: new C.Dictionary(Translations_nl) }
             ]);
-        };
-
-        constructor() {
-            super('Help');
-        }
+        };        
     }
 }
