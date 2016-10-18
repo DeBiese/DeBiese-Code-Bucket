@@ -6,6 +6,12 @@ Sample code/blogs that appear on this page are added at the top. So the recent c
 
 All code found in this repository is provided "as is". 
 
+## How to - Build your own Angular translation service - Part 2
+
+[Blog](https://spikesapps.wordpress.com/2016/10/18/how-to-build-your-own-angular-translation-service-part-2/)
+
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.NgResources.Part2)
+
 ## How to - Build your own Angular translation service - Part 1
 
 [Blog](https://spikesapps.wordpress.com/2016/09/30/how-to-build-your-own-angular-translation-service-part-1/)
