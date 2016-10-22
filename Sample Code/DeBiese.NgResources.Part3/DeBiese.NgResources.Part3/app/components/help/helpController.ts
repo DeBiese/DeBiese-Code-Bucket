@@ -8,7 +8,12 @@ module DeBiese.NgResources.Part3.Controllers {
         static id: string = 'helpController';
         
         constructor(private resourceSvc: DeBiese.Common.Resources.IResourceService) {
-            this.activate();
+            
+        }
+
+        $onInit(): void {
+            const self = this;
+            self.activate();
         }
 
         activate(): void {

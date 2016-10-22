@@ -34,9 +34,14 @@ module DeBiese.NgResources.Part3.Controllers {
         ) {
             
 
-            this.activate();
         }
 
+        $onInit(): void {
+            const self = this;
+            self.resourceSvc.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Home', fileLocation: '/app/resources/components/home/', languages: ['en', 'nl'] }));
+
+            self.activate();
+        }
 
         private activate(): void {
             const self = this;

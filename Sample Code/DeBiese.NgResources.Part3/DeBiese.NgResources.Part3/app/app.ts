@@ -42,7 +42,7 @@ module DeBiese.NgResources.Part3 {
         let resourceConfig: DeBiese.Common.Resources.IResourceConfiguration = new DeBiese.Common.Resources.ResourceConfiguration();
         resourceConfig.preferredLanguage = 'en'; //is the default setting (could be omitted here)
 
-        resourceConfig.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Home', fileLocation: '/app/resources/components/home/', languages: ['en', 'nl'] }));
+        //resourceConfig.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Home', fileLocation: '/app/resources/components/home/', languages: ['en', 'nl'] }));
         resourceConfig.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Help', fileLocation: '/app/resources/components/help/', languages: ['en', 'nl'] }));
         resourceConfig.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Nav', fileLocation: '/app/resources/directives/navigation/', languages: ['en', 'nl'] }));
         resourceConfig.addResourceFile(new DeBiese.Common.Resources.ResourceFile({ keyPrefix: 'Error', fileLocation: '/app/resources/errors/', languages: ['en', 'nl'] }));

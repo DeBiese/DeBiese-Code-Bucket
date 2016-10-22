@@ -15,10 +15,14 @@ module DeBiese.NgResources.Part3.Controllers {
             navigationConfiguration: DeBiese.NgResources.Part3.NavigationConfiguration
         ) {
             this.navConfig = navigationConfiguration;
-            this.activate();
         }
 
-        activate(): void {
+        $onInit(): void {
+            const self = this;
+            self.activate();
+        }
+
+        private activate(): void {
 
         }
     }

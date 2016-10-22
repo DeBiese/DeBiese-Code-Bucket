@@ -26,6 +26,7 @@ module DeBiese.Common.Resources {
     //**********************************************************************************************
     //**********************************************************************************************
     export interface IResourceService {
+        addResourceFile: (resourceFile: IResourceFile) => void;
         getLocalResource: (resourceKey: string, resourceFile?: string) => string;
         setLanguage: (language: string) => void;
     }
@@ -76,15 +77,38 @@ module DeBiese.Common.Resources {
     //**********************************************************************************************
     //**********************************************************************************************
     class ResourceService implements IResourceService {
+        $inject: Array<string> = ['$http'];
+
         private $resourceDictionary: Dictionary<string, Dictionary<string, string>> = null;
         private $dictionary: Dictionary<string, string> = null;
+        private $loadedResourceFiles: Dictionary<string, IResourceFile> = null;
 
         constructor(private $http: ng.IHttpService) {
             this.$resourceDictionary = new Dictionary<string, Dictionary<string, string>>();
             this.$dictionary = new Dictionary<string, string>();
+            this.$loadedResourceFiles = new Dictionary<string, IResourceFile>();
         }
 
-        private loadResourceFile(resourceFile: IResourceFile, languageToLoad: string): ng.IPromise<boolean> {
+        private loadResourceFile(resourceFile: IResourceFile): ng.IPromise<boolean> {
+            const self = this; 
+            let defer = Q.defer();
+            let loadPromises: Array<any> = [];
+
+            if (!self.$loadedResourceFiles.containsKey(resourceFile.keyPrefix)) {
+                resourceFile.languages.forEach(lang => {
+                    loadPromises.push(self.loadLanguageFile(resourceFile, lang));
+                });                
+            } 
+
+            Q.all(loadPromises).then(() => {
+                self.$loadedResourceFiles.add(resourceFile.keyPrefix, resourceFile);
+                defer.resolve(true);
+            });
+
+            return defer.promise;
+        }
+
+        private loadLanguageFile(resourceFile: IResourceFile, languageToLoad: string): ng.IPromise<boolean> {
             const self = this;
             let defer = Q.defer();
 
@@ -116,6 +140,11 @@ module DeBiese.Common.Resources {
             return defer.promise;
         }
 
+        addResourceFile(resourceFile: IResourceFile): void {
+            const self = this;
+            self.loadResourceFile(resourceFile);
+        }
+
         configure(resourceConfig: IResourceConfiguration): void {
             const self = this;
             if (resourceConfig != null) {
@@ -131,9 +160,7 @@ module DeBiese.Common.Resources {
 
             let loadPromises: Array<any> = [];
             resourceConfig.getResourceFiles().forEach(rf => {
-                rf.languages.forEach(lang => {
-                    loadPromises.push(self.loadResourceFile(rf, lang));
-                })
+                self.loadResourceFile(rf);            
             });
 
             Q.all(loadPromises).then(() => { self.setLanguage(resourceConfig.preferredLanguage); });
@@ -145,7 +172,7 @@ module DeBiese.Common.Resources {
             if (self.$dictionary.containsKey(resourceKey))
                 return self.$dictionary.getValue(resourceKey);
             else
-                return 'Unknown resourceKey';
+                return resourceKey;
         }
 
         setLanguage(language: string): void {
@@ -167,18 +194,18 @@ module DeBiese.Common.Resources {
         private $resourceConfiguration: IResourceConfiguration;
 
         constructor() {
-            
+            this.$get.$inject = ['$http'];
         }
 
         public config(resourceConfig: IResourceConfiguration): void {
             this.$resourceConfiguration = resourceConfig;
         }
 
-        public $get($http): IResourceService {
+        public $get($http: ng.IHttpService): IResourceService {
             this.$resourceService = new ResourceService($http);
             this.$resourceService.configure(this.$resourceConfiguration);
             return this.$resourceService;
-        }
+        }        
     }
 
     angular.module('debiese.common', [])
