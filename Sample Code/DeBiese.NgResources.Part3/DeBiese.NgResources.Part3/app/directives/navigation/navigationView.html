@@ -14,6 +14,12 @@
                 <li><a ui-sref="{{::navItem.State}}"><i ng-if="navItem.Icon != null && navItem.Icon != ''" class="{{navItem.IconBase}} {{navItem.Icon}}"></i>{{vm.resourceSvc.getLocalResource(navItem.ResourceKey)}}</a> </li>
             </ul>
             <div class="pull-right hidden-xs company-logo-small"></div>
+            <div class="pull-right language-select">
+                <select class="form-control"
+                        ng-model="vm.languageCode"
+                        ng-options="lng.Code as lng.DisplayText for lng in vm.languageList"
+                        ng-change="vm.setLanguage()"></select>
+            </div>
         </div>
     </nav>
 </div>

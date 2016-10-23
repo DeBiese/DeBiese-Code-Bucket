@@ -31,6 +31,11 @@
     font-size: 20px;
 }
 
+.language-select{
+    margin-top: 5px;
+    margin-right: 24px;
+}
+
 .navbar-nav > li > a > i{
     padding-right: 5px;
 }

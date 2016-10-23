@@ -49,7 +49,7 @@ module DeBiese.NgResources.Part3.Controllers {
             //Test Toasts
             self.$timeout(() => {
                 self.toastSvc.toastError(self.resourceSvc.getLocalResource('Home.helloWorld'))
-            }, 0, true);
+            }, 500, true);
             self.$timeout(() => {
                 self.toastSvc.toastInfo(self.resourceSvc.getLocalResource('Home.helloWorld'));
             }, 1000, true);
