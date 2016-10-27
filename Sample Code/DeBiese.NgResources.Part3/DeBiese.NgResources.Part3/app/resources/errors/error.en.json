@@ -1,0 +1,4 @@
+﻿[
+    { "key": "unExpectedError", "value": "An unexpected error occurred. Contact IT support if the error persists." },
+    { "key": "somethingWrong", "value": "Something went wrong. Try again please." }
+]
