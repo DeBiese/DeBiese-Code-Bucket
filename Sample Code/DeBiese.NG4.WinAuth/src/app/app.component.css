@@ -1,0 +1,11 @@
+.grey{
+  background-color: lightgray;
+}
+
+.success{
+  background-color: lightgreen;
+}
+
+.error{
+  background-color: lightcoral;
+}

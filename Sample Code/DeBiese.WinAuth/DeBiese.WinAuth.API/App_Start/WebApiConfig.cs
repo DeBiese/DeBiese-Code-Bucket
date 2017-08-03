@@ -23,7 +23,7 @@ namespace DeBiese.WinAuth.API
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            var cors = new EnableCorsAttribute("http://localhost:30033", "*", "*") { SupportsCredentials = true };
+            var cors = new EnableCorsAttribute("http://localhost:30033,http://localhost:4200", "*", "*") { SupportsCredentials = true };
             config.EnableCors(cors);
         }
     }
