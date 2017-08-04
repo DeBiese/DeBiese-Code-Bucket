@@ -6,9 +6,19 @@ Sample code/blogs that appear on this page are added at the top. So the recent c
 
 All code found in this repository is provided "as is". 
 
+## HOW TO IMPLEMENT WINDOWS AUTHENTICATION IN AN ANGULAR (^4.3.1) APPLICATION WITH A STAND-ALONE WEB API
+
+[Blog](https://spikesapps.wordpress.com/2017/08/04/how-to-implement-windows-authentication-in-an-angular-4-3-1-application-with-a-stand-alone-web-api/)
+
+[Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.NG4.WinAuth)
+
+## AZURE AD PROVIDER FOR HORIZON
+
+[Blog](https://spikesapps.wordpress.com/2017/05/07/azure-ad-provider-for-horizon/)
+
 ## How to - Build your own Angular translation service - Part 3
 
-[Blog - TODO: update url](https://spikesapps.wordpress.com/)
+[Blog](https://spikesapps.wordpress.com/2016/10/27/how-to-build-your-own-angular-translation-service-part-3/)
 
 [Sample Code](https://github.com/DeBiese/DeBiese-Code-Bucket/tree/master/Sample%20Code/DeBiese.NgResources.Part3)
 
