@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
+**NOTE:**
+*This project does **NOT** work as-is in Angular6. If you want to get started with this, change the package.json to use an Angular version < 6.*
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
